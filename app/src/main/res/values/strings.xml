@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Peerit</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="signup">New user? Sign up with email now</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="login_advert">Chat with Local Peers</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+</resources>
